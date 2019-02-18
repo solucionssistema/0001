@@ -1,0 +1,10 @@
+-Iniciar sesión
+-Agregar una nueva categoria: categoria de ejemplo
+-Agregar un nuevo usuario: pepe 1234
+-Cerrar sesión
+-Iniciar sesión con el nuevo usuario: pepe 1234
+-Editar usuario y poner otra categoría
+-Eliminar categoria: categoria de ejemplo
+-Cerar sesión
+-Iniciar sesión con otro usuario
+-Eliminar usaurio pepe
